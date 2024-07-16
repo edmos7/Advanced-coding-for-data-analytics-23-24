@@ -10,3 +10,5 @@ Other files constitute:
 - code276661: jupyter noteook code file
 - graph.zip : the zipped, already networkx-built graph (original file is quite big)
 - betw.pickle : the pickled betweenness centralities, useful as computing them can take quite some time 
+
+This course project, part of the Bachelor's degree in management and computer science at Luiss, was developed between March and May of 2024
