@@ -13,4 +13,4 @@ Other files constitute:
 
 This course project, part of the Bachelor's degree in management and computer science at Luiss, was developed between March and May of 2024
 
-Please consult the pdf presentation of our methodology and results here: (hetionet.elarrag.mosca.pdf)
+Please consult the pdf presentation of our methodology and results here: [hetionet.elarrag.mosca.pdf](hetionet.elarrag.mosca.pdf)
